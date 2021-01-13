@@ -1,4 +1,4 @@
-# D
+# Dessication Derby
 This is a game.
 You are a spunky desert tequila worm. 
 In order to grow and not become a desiccated husk in the desert, you must nourish yourself with the life-giving water of the desert cactus. 
